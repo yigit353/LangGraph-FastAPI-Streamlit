@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain
+python-dotenv
+tiktoken
+langchain_deepseek
+sseclient-py
+streamlit
